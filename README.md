@@ -3,8 +3,9 @@
 ## Software requirements
 - Java 11
 
-Download and install [JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html). Create an environmental variable named JAVA_HOME pointing to JDK installation folder, and add **%JAVA_HOME%/bin** to your **PATH** envrionmental variable.
-- mvn
+Download and install [JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html). Create an environmental variable named JAVA_HOME pointing to JDK installation folder, and add **%JAVA_HOME%/bin** to your **PATH** environment variable.
+
+- Maven
 
 Download [Maven](https://maven.apache.org/download.cgi). Create an environmental variable named MVN_HOME pointing to Maven's installation folder, and add **%MVN_HOME%/bin** to your **PATH** envrionmental variable.
 - Git
