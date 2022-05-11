@@ -17,6 +17,12 @@ Download and install [IntelliJ IDEA Community](https://www.jetbrains.com/idea/do
 - Docker Desktop
 
 Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- Postman
+
+Download and install [Postman](https://www.postman.com/downloads/)
+- Visual Paradigm
+
+Install the community version of [Visual Paradigm](https://www.visual-paradigm.com/editions/community/), since the Standard Version trial is free for 30 days
 
 
 ## Accounts
